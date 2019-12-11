@@ -25649,6 +25649,7 @@ blockquote {
 .u-header .u-image-1 {box-shadow: 2px 2px 8px 0 rgba(128,128,128,1); margin: 6px auto 0 0}
 .u-header .u-logo-image-1 {max-width: 132px; max-height: 132px}
 .u-header .u-menu-1 {margin: -49px 0 23px auto}
+.u-header .u-nav-1 {font-size: 1.25rem; letter-spacing: 0; font-weight: 700}
 .u-header .u-nav-2 {font-size: 1.25rem} 
 @media (max-width: 1199px){ .u-header .u-image-1 {width: 31px; height: 32px}
 .u-header .u-menu-1 {width: auto; margin-top: -48px; margin-right: 6px; margin-bottom: 18px} }
