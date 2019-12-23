@@ -6777,6 +6777,13 @@ blockquote.u-text.u-indent-0 {
 .u-text.u-indent-none {
   padding-left: 0 !important;
 }
+.u-text-default {
+  display: table;
+}
+.u-text-default:empty {
+  display: block;
+  width: 0.1em;
+}
 .u-image,
 .u-video-poster {
   object-fit: cover;
