@@ -4716,6 +4716,9 @@ a {
 .u-form-vertical .u-form-submit {
   margin-bottom: 0 !important;
 }
+.u-form-submit {
+  display: inline-block;
+}
 @media (max-width: 767px) {
   .u-form-horizontal {
     flex-direction: column;
@@ -6753,7 +6756,7 @@ blockquote.u-text.u-indent-0 {
   }
 }
 .u-border-none {
-  border-width: 0;
+  border-width: 0 !important;
 }
 [class*="u-border-"].u-border-no-top {
   border-top-width: 0;
@@ -14708,35 +14711,11 @@ p {
 .u-font-arial.u-custom-font {
   font-family: Arial, sans-serif !important;
 }
-.u-font-century-gothic.u-custom-font {
-  font-family: 'Century Gothic', sans-serif !important;
-}
-.u-font-comic-sans-ms.u-custom-font {
-  font-family: 'Comic Sans MS', sans-serif !important;
-}
 .u-font-courier-new.u-custom-font {
   font-family: 'Courier New', monospace !important;
 }
 .u-font-georgia.u-custom-font {
   font-family: Georgia, serif !important;
-}
-.u-font-lucida-grande.u-custom-font {
-  font-family: 'Lucida Grande', sans-serif !important;
-}
-.u-font-palatino-linotype.u-custom-font {
-  font-family: 'Palatino Linotype', serif !important;
-}
-.u-font-tahoma.u-custom-font {
-  font-family: Tahoma, sans-serif !important;
-}
-.u-font-times-new-roman.u-custom-font {
-  font-family: 'Times New Roman', serif !important;
-}
-.u-font-trebuchet-ms.u-custom-font {
-  font-family: 'Trebuchet MS', sans-serif !important;
-}
-.u-font-verdana.u-custom-font {
-  font-family: Verdana, sans-serif !important;
 }
 .u-font-roboto.u-custom-font {
   font-family: Roboto, sans-serif !important;
@@ -14765,17 +14744,11 @@ p {
 .u-font-pt-sans.u-custom-font {
   font-family: 'PT Sans', sans-serif !important;
 }
-.u-font-open-sans-condensed.u-custom-font {
-  font-family: 'Open Sans Condensed', sans-serif !important;
-}
 .u-font-ubuntu.u-custom-font {
   font-family: Ubuntu, sans-serif !important;
 }
 .u-font-titillium-Web.u-custom-font {
   font-family: 'Titillium Web', sans-serif !important;
-}
-.u-font-slabo-27px.u-custom-font {
-  font-family: 'Slabo 27px', serif !important;
 }
 .u-font-merriweather.u-custom-font {
   font-family: Merriweather, serif !important;
@@ -14786,17 +14759,8 @@ p {
 .u-font-playfair-display.u-custom-font {
   font-family: 'Playfair Display', serif !important;
 }
-.u-font-lora.u-custom-font {
-  font-family: Lora, serif !important;
-}
 .u-font-Lobster.u-custom-font {
   font-family: Lobster, cursive !important;
-}
-.u-font-abril-fatface.u-custom-font {
-  font-family: 'Abril Fatface', cursive !important;
-}
-.u-font-comfortaa.u-custom-font {
-  font-family: Comfortaa, cursive !important;
 }
 .u-rectangle {
   border-radius: 0;
@@ -25655,8 +25619,8 @@ blockquote {
 .u-header .u-sheet-1 {min-height: 72px}
 .u-header .u-image-1 {box-shadow: 2px 2px 8px 0 rgba(128,128,128,1); margin: 6px auto 0 0}
 .u-header .u-logo-image-1 {max-width: 132px; max-height: 132px}
-.u-header .u-menu-1 {margin: -49px 0 23px auto}
-.u-header .u-nav-1 {font-size: 1.25rem; letter-spacing: 0; font-weight: 700}
+.u-header .u-menu-1 {font-family: size-14; margin: -49px 0 23px auto}
+.u-header .u-nav-1 {font-size: 1.25rem; letter-spacing: 0; font-weight: 700; font-family: century-gothic}
 .u-header .u-nav-2 {font-size: 1.25rem} 
 @media (max-width: 1199px){ .u-header .u-image-1 {width: 31px; height: 32px}
 .u-header .u-menu-1 {width: auto; margin-top: -48px; margin-right: 6px; margin-bottom: 18px} }
