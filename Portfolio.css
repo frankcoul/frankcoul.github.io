@@ -2,7 +2,7 @@
 .u-section-1 .u-text-1 {font-weight: 900; margin: 44px 20px 16px} 
 
 @media (max-width: 1199px){ .u-section-1 .u-text-1 {margin-left: 0; margin-right: 0} }.u-section-2 .u-sheet-1 {min-height: 112px}
-.u-section-2 .u-text-1 {font-size: 1.875rem; margin: 12px 20px 60px} 
+.u-section-2 .u-text-1 {font-size: 1.875rem; font-family: palatino-linotype; margin: 12px 20px 60px} 
 
 @media (max-width: 1199px){ .u-section-2 .u-text-1 {margin-left: 0; margin-right: 0; font-weight: normal} }.u-section-3 {background-image: none}
 .u-section-3 .u-sheet-1 {min-height: 749px}
@@ -60,7 +60,7 @@
 .u-section-3 .u-image-6 {min-height: 278px} }.u-section-4 {background-image: none}
 .u-section-4 .u-sheet-1 {min-height: 750px}
 .u-section-4 .u-layout-wrap-1 {margin: 71px auto 71px 0}
-.u-section-4 .u-image-1 {min-height: 308px; background-image: url("images/cadreenfolies2.jpg"); background-position: 50% 50%}
+.u-section-4 .u-image-1 {min-height: 308px; background-image: url("images/BurningFX.jpg"); background-position: 50% 50%}
 .u-section-4 .u-container-layout-1 {padding: 30px}
 .u-section-4 .u-image-2 {min-height: 308px; background-image: url("images/danseuse2.jpg"); background-position: 50% 50%}
 .u-section-4 .u-container-layout-2 {padding: 30px}
@@ -119,11 +119,11 @@
 .u-section-5 .u-container-layout-2 {padding: 30px}
 .u-section-5 .u-image-3 {min-height: 308px; background-image: url("images/DivanAbstract.jpg"); background-position: 50% 50%}
 .u-section-5 .u-container-layout-3 {padding: 30px}
-.u-section-5 .u-image-4 {min-height: 311px; background-image: url("images/default-image.jpg"); background-position: 50% 50%}
+.u-section-5 .u-image-4 {min-height: 311px; background-image: url("images/ambianceFX.jpg"); background-position: 50% 50%}
 .u-section-5 .u-container-layout-4 {padding: 30px}
-.u-section-5 .u-image-5 {min-height: 311px; background-image: url("images/default-image.jpg"); background-position: 50% 50%}
+.u-section-5 .u-image-5 {min-height: 311px; background-image: url("images/cafeFX.jpg"); background-position: 50% 50%}
 .u-section-5 .u-container-layout-5 {padding: 30px}
-.u-section-5 .u-image-6 {min-height: 311px; background-image: url("images/default-image.jpg"); background-position: 50% 50%}
+.u-section-5 .u-image-6 {min-height: 311px; background-image: url("images/cygnesFX2.jpg"); background-position: 50% 50%}
 .u-section-5 .u-container-layout-6 {padding: 30px} 
 
 @media (max-width: 1199px){ .u-section-5 .u-sheet-1 {min-height: 509px}
