@@ -2,9 +2,9 @@
 .u-section-1 .u-text-1 {font-weight: 900; margin: 44px 20px 16px} 
 
 @media (max-width: 1199px){ .u-section-1 .u-text-1 {margin-left: 0; margin-right: 0} }.u-section-2 .u-sheet-1 {min-height: 112px}
-.u-section-2 .u-text-1 {font-size: 1.875rem; font-family: palatino-linotype; margin: 12px 20px 60px} 
+.u-section-2 .u-text-1 {font-size: 1.875rem; font-family: palatino-linotype; font-weight: normal; margin: 12px 20px 60px} 
 
-@media (max-width: 1199px){ .u-section-2 .u-text-1 {margin-left: 0; margin-right: 0; font-weight: normal} }.u-section-3 {background-image: none}
+@media (max-width: 1199px){ .u-section-2 .u-text-1 {margin-left: 0; margin-right: 0} }.u-section-3 {background-image: none}
 .u-section-3 .u-sheet-1 {min-height: 749px}
 .u-section-3 .u-layout-wrap-1 {margin: 69px auto 71px 0}
 .u-section-3 .u-image-1 {min-height: 308px; background-image: url("images/3dbird2.jpg"); background-position: 50% 50%}
