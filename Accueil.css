@@ -4,7 +4,7 @@
 .u-section-1 .u-text-2 {width: 780px; font-style: italic; text-shadow: 2px 2px 8px rgba(0,0,0,0.4); margin: 0 auto}
 .u-section-1 .u-text-3 {width: 780px; text-shadow: 2px 2px 8px rgba(0,0,0,0.4); margin: 30px auto 0} 
 
-@media (max-width: 1199px){ .u-section-1 {min-height: 338px; background-position: 50% -8.57376vh}
+@media (max-width: 1199px){ .u-section-1 {min-height: 338px; background-position: 50% 1.22482vh}
 .u-section-1 .u-sheet-1 {min-height: 660px}
 .u-section-1 .u-text-1 {margin-top: 60px}
 .u-section-1 .u-text-3 {margin-bottom: 60px} }
