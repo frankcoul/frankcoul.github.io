@@ -27053,9 +27053,8 @@ a:hover {
 .u-header .u-menu-1 {font-family: size-14; margin: -49px 0 23px auto}
 .u-header .u-nav-1 {font-size: 1.25rem; letter-spacing: 0; font-weight: 700; font-family: century-gothic}
 .u-header .u-nav-2 {font-size: 1.25rem} 
-@media (max-width: 1199px){ .u-header .u-image-1 {width: 31px; height: 32px}
-.u-header .u-menu-1 {width: auto; margin-top: -48px; margin-right: 6px; margin-bottom: 18px} }
-@media (max-width: 991px){ .u-header .u-image-1 {width: 24px}
+@media (max-width: 1199px){ .u-header .u-menu-1 {width: auto; margin-top: -48px; margin-right: 6px; margin-bottom: 18px} }
+@media (max-width: 991px){ .u-header .u-image-1 {width: 24px; height: 32px}
 .u-header .u-menu-1 {margin-right: 0} }
 @media (max-width: 767px){ .u-header .u-sheet-1 {min-height: auto}
 .u-header .u-image-1 {width: 23px} }
