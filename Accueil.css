@@ -962,8 +962,8 @@
   white-space: nowrap;
   height: 48px;
   min-height: 16px;
-  width: 252px;
-  min-width: 124px;
+  width: 184px;
+  min-width: 88px;
   margin: 31px auto 60px 444px;
 }
 
@@ -976,10 +976,6 @@
 }
 
 .u-section-7 .u-icon-3 {
-  height: 100%;
-}
-
-.u-section-7 .u-icon-4 {
   height: 100%;
 }
 
@@ -1009,7 +1005,7 @@
   }
 
   .u-section-7 .u-social-icons-1 {
-    margin-left: 288px;
+    margin-left: 356px;
   }
 }
 
@@ -1023,6 +1019,6 @@
   }
 
   .u-section-7 .u-social-icons-1 {
-    margin-left: 88px;
+    margin-left: 156px;
   }
 }
