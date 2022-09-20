@@ -396,10 +396,10 @@
 }
 
 .u-section-3 .u-image-2 {
-  width: 292px;
-  height: 222px;
+  width: 361px;
+  height: 292px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  margin: -320px auto 0;
+  margin: -360px auto 0 100px;
 }
 
 @media (max-width: 1199px) {
@@ -442,6 +442,10 @@
   .u-section-3 .u-group-1 {
     margin-top: 55px;
   }
+
+  .u-section-3 .u-image-2 {
+    margin-left: 78px;
+  }
 }
 
 @media (max-width: 991px) {
@@ -478,6 +482,8 @@
   }
 
   .u-section-3 .u-image-2 {
+    width: 336px;
+    height: 272px;
     margin-top: -289px;
     margin-left: 18px;
   }
